@@ -580,7 +580,7 @@ a {
   display: flex;
   padding-top: 60px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/pontal-sms-neg-cinza-1920x646.png");
+  background-image: url("../../../assets/images/mbr-3-1920x1389.png");
 }
 .cid-s3p2mZvRHq .mbr-overlay {
   background: #878787;
@@ -1100,8 +1100,8 @@ a {
   }
 }
 .cid-s3p3M1FluH {
-  padding-top: 80px;
-  background-image: url("../../../assets/images/mbr-1-1920x1389.png");
+  padding-top: 40px;
+  background-image: url("../../../assets/images/mbr-2-1920x1389.png");
 }
 .cid-s3p3M1FluH .container {
   margin-bottom: 15%;
@@ -1236,7 +1236,7 @@ a {
   color: #ffffff;
   font-weight: 600;
   margin-bottom: 21px;
-  text-align: left;
+  text-align: center;
 }
 .cid-s3pVEjsTSt .mbr-iconfont {
   font-size: 48px;
@@ -1307,7 +1307,7 @@ a {
   text-align: center;
 }
 .cid-s3pVEjsTSt DIV {
-  text-align: left;
+  text-align: center;
 }
 .cid-s3pVEjsTSt P {
   text-align: left;
@@ -1316,7 +1316,7 @@ a {
   text-align: left;
 }
 .cid-s3pVEjsTSt H4 {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
 }
 .cid-s3pmCCOasW {
@@ -1537,4 +1537,12 @@ a {
   .cid-s3uGrZP0FF .mbr-list li {
     margin-bottom: .5rem;
   }
+}
+.cid-s3uGrZP0FF .mbr-text,
+.cid-s3uGrZP0FF .social-media,
+.cid-s3uGrZP0FF .logo-section {
+  color: #000000;
+}
+.cid-s3uGrZP0FF .mbr-offer {
+  text-align: center;
 }
